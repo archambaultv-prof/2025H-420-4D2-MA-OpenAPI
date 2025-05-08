@@ -21,3 +21,7 @@ cd generated-server
 npm install
 npm start
 ```
+
+## Documentation OpenAPI
+
+[https://learn.openapis.org/](https://learn.openapis.org/)
